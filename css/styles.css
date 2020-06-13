@@ -47,6 +47,7 @@ body{
 
 #nav-list{
 	margin-top:10px;
+
 }
 
 #nav-list a{
@@ -203,6 +204,7 @@ body{
 		margin-bottom: 10px;
 		padding-top: 10px;
 		height: 90px;
+
 	}
 	.navbar-brand h1{
 		padding-top: 10px;
@@ -216,8 +218,12 @@ body{
 	.navbar-brand p img{
 		height: 20px;
 	}
+	#collapsable-navbar{
+		border-color: #f6b319;
+	}
 	#collapsable-navbar a{
 		font-size: 1.2em;
+
 		/*border: 1px solid;*/
 		border-radius:5px;
 		margin-bottom:1px;
